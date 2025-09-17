@@ -1,4 +1,3 @@
-Título do Projeto Extremamente Aesthetic
 🌿 SynthNature: O Futuro da Moda Sustentável com IA
 
 📒 Descrição
